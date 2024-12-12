@@ -38,7 +38,7 @@ Install npm
 Clone the project
 
 ```bash
-  git clone -b dev-fitur2-widda https://github.com/C242-PS494/Aquasmart.git
+  git clone -b dev-fitur2-rafi https://github.com/C242-PS494/Aquasmart.git
 ```
 
 Go to the project directory
