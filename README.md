@@ -1,5 +1,5 @@
 
-# Fitur Prediksi Panen Ikan
+# Fitur Water Quality
 
 This contains information about the endpoint, the model, and the steps to deploy using Google Compute Engine.
 
