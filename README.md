@@ -89,7 +89,7 @@ Start the server
 }
 ```
 
-- Succes Respone:
+- Success Response:
   
   Code: 200
 ```http
@@ -107,7 +107,7 @@ Start the server
   Code: 500
 ```http
  {
-    "message": 'Error saat memproses prediksi ML',
+    "message": "Error saat memproses prediksi ML",
     "error": "error.response.data"
 }
 
@@ -115,7 +115,7 @@ Start the server
 
 ```http
  {
-    "message": 'Database error atau masalah koneksi!',
+    "message": "Database error atau masalah koneksi!",
     "error": "error.message"
 }
 
@@ -168,7 +168,7 @@ Start the server
 }
 
 ```
-  - Error Respone:
+  - Error Response:
 
   Code: 401
 ```http
@@ -182,7 +182,7 @@ Start the server
 Code: 500
 ```http
  {
-    "message": 'Database error atau masalah koneksi!',
+    "message": "Database error atau masalah koneksi!",
     "error": "error.message"
 }
 
@@ -231,7 +231,7 @@ Code: 500
 }
 
 ```
-  - Error Respone:
+  - Error Response:
 
   Code: 401
 ```http
@@ -245,7 +245,7 @@ Code: 500
 Code: 500
 ```http
  {
-    "message": 'Database error atau masalah koneksi!',
+    "message": "Database error atau masalah koneksi!",
     "error": "error.message"
 }
 
@@ -265,7 +265,7 @@ Code: 500
     
     Authorization: Bearer `JWT Token`
 
-- Succes Respone:
+- Succes Response:
   
   Code: 200
 ```http
@@ -275,7 +275,7 @@ Code: 500
 
 ```
   
-- Error Respone:
+- Error Response:
 
   Code: 404
 ```http
