@@ -52,6 +52,9 @@ class SignUpActivity : AppCompatActivity() {
         binding.txtLinkLogin.setOnClickListener {
             navigateToLoginActivity()
         }
+        binding.backButton.setOnClickListener {
+            navigateToLoginActivity()
+        }
 
 
         binding.signUpButton.setOnClickListener {

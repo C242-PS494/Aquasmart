@@ -55,6 +55,6 @@
     <fragment
         android:id="@+id/reportResultFragment"
         android:name="com.example.aquasmart.ui.report.ReportResultFragment"
-        android:label="fragment_report_result"
+        android:label="Performance Result"
         tools:layout="@layout/fragment_report_result" />
 </navigation>

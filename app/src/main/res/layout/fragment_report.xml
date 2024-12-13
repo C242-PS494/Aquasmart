@@ -59,7 +59,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/biayaPakan"
-            app:startIconDrawable="@drawable/baseline_thermostat_24">
+            app:startIconDrawable="@drawable/baseline_water_24">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/et_feeds"
@@ -74,7 +74,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/labor"
-            app:startIconDrawable="@drawable/baseline_water_drop_24">
+            app:startIconDrawable="@drawable/baseline_water_24">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/et_tenagaKerja"
